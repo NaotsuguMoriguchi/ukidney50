@@ -1,0 +1,13 @@
+"1. Hypertension: Current State of the Art",
+"2. Hypertension: Current State of the Art",
+"3. Current State of the Art: Preload reduction",
+"4. Current State of the Art: Preload reduction",
+"5. Current State of the Art: HR/Contractility reduction",
+"6. Current State of the Art: HR/Contractility reduction",
+"7. Current State of the Art: TPR reduction",
+"8. Current State of the Art: TPR reduction",
+"9. Hypertension: Current State of the Art",
+"10. Reaching target: Combine medications",
+"11. Reaching target: Combine medications", 
+"12. Reaching target: Combine medications", 
+
